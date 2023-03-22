@@ -37,7 +37,6 @@ function product() {
               <MdIosShare size="30" />
             </a>
           </div>
-
           <h1 className={styles.name}>
             <strong>Modern Flats and Apartments</strong>
           </h1>
@@ -47,6 +46,7 @@ function product() {
             <i className="image.png"></i>
             <span>Andheri, Mumbai, India-400414</span>
           </p>
+
           <div className={styles.subBtn}>
             <h3 className={styles.Request}>Request a tour</h3>
           </div>
